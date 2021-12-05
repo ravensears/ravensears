@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ravensears
-- 👀 I’m interested in coding, making jewellery, and maths
-- 🌱 I’m beginning the software engineering boot camp at Makers
-- 💞️ I’m looking to collaborate on anything you want a novice's help on! 
-- 📫 How to reach me ravenrosereynolds@icloud.com
+- 👀 I’m interested in coding, making jewellery, and reading.
+- 🌱 I’m in the December cohort for the Software Engineering Course at Makers Academy
+- 💞️ I’m looking to collaborate on anything you want a novice's help on!
