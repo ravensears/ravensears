@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ravensears
-- 👀 I’m interested in coding, making jewellery, and reading.
-- 🌱 I’m in the December cohort for the Software Engineering Course at Makers Academy
-- 💞️ I’m looking to collaborate on anything you want a novice's help on!
+- 👋 Hi, I’m Raven!
+- 👀 Interests: coding, reading, mindfulness, The Office (US)
+- 🌱 I’m in the December cohort for the Software Engineering Course at Makers Academy.
