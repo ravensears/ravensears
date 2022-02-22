@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Raven!
-- 👀 Interests: coding, reading, mindfulness, The Office (US)
+- 👀 Interests: coding, reading, mindfulness, The Office (US), gaming
 - 🌱 I’m in the December cohort for the Software Engineering Course at Makers Academy.
