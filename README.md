@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Raven!
-- I've just finished the Software Engineering Course at Makers Academy
-- Currently looking for a fulfilling role in the lovely tech world
 - 👀 Interests: coding, reading, mindfulness, The Office (US), gaming
