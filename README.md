@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Raven!
-- 👀 Interests: coding, reading, mindfulness, The Office (US), gaming
+- 👀 Interests: finance, reading, mindfulness, The Office (US), gaming
