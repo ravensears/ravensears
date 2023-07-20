@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Raven!
-- 👀 Interests: finance, reading, mindfulness, The Office (US), gaming
+- 👀 Interests: motorcycles, journalling, mindfulness, The Office, gaming (specifically Elder Scrolls Online), spending time with my kids
